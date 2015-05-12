@@ -1,0 +1,20 @@
+ .Lesson {
+ 	background-color: #007A99;
+ 	border:10px inset silver;
+ 	margin: 15px;
+ 	border-radius: 30px;
+ 	text-align: center;
+ }
+ .L1 {
+ 	text-align: center;
+ 	background-color: #66CCFF;
+  	padding: 6px;
+ 	border: 4px outset silver;
+ 	border-radius: 15px;
+ }
+ h3 {
+ 	background-color: silver;
+ }
+ ol {
+ 	text-align: left;
+ }
